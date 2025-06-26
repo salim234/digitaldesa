@@ -1,0 +1,67 @@
+{
+  "hash": "65b01fbb",
+  "configHash": "917af734",
+  "lockfileHash": "3c95d423",
+  "browserHash": "83ac7b39",
+  "optimized": {
+    "chart.js": {
+      "src": "../../node_modules/chart.js/dist/chart.js",
+      "file": "chart__js.js",
+      "fileHash": "a7af9352",
+      "needsInterop": false
+    },
+    "localforage": {
+      "src": "../../node_modules/localforage/dist/localforage.js",
+      "file": "localforage.js",
+      "fileHash": "7cfc6cf6",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "057d7ec7",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "1295c364",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "6faccd31",
+      "needsInterop": false
+    },
+    "sql.js": {
+      "src": "../../node_modules/sql.js/dist/sql-wasm.js",
+      "file": "sql__js.js",
+      "fileHash": "5b52a38e",
+      "needsInterop": true
+    },
+    "xlsx": {
+      "src": "../../node_modules/xlsx/xlsx.mjs",
+      "file": "xlsx.js",
+      "fileHash": "36f06eef",
+      "needsInterop": false
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "5a73c3f7",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-IZF5WFZL": {
+      "file": "chunk-IZF5WFZL.js"
+    },
+    "chunk-MKRPR6XY": {
+      "file": "chunk-MKRPR6XY.js"
+    },
+    "chunk-KEXKKQVW": {
+      "file": "chunk-KEXKKQVW.js"
+    }
+  }
+}

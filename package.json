@@ -1,0 +1,25 @@
+{
+  "name": "aplikasi-administrasi-digital-desa",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.2",
+    "xlsx": "0.18.5",
+    "sql.js": "1.10.3",
+    "localforage": "1.10.0",
+    "chart.js": "4.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0"
+  }
+}
